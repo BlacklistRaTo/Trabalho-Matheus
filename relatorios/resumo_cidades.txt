@@ -1,0 +1,13 @@
+📊 Cidade com MAIS mortes:
+- Estado: SP
+- Cidade: São Paulo
+- Total de mortes: 39352
+- População inicial: 12325232
+- População final: 12252023
+
+📉 Cidade com MENOS mortes:
+- Estado: GO
+- Cidade: Guarani de Goiás
+- Total de mortes: 0
+- População inicial: 3846
+- População final: 3893
